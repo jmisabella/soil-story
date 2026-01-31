@@ -58,7 +58,7 @@
 
 ## 2. WORLD/SETTING DETAILS
 
-### The Planet: **Threshold**
+### The Planet: **Vela**
 
 **Name Origin**: Named for its position at the "threshold" of the Traverse network—a major hub world where multiple bend-travel routes converge. Strategic location for monitoring and regulating all bend-traffic in this sector of space.
 
@@ -97,7 +97,7 @@
 - Has enforcement capability (can detain ships, arrest personnel, impose sanctions)
 
 **Hierarchy**:
-- **Sector Command**: Oversees entire Threshold sector
+- **Sector Command**: Oversees entire Vela sector
 - **Division Chiefs**: Specialized departments (Traffic, Investigation, Enforcement, Research)
 - **Senior Investigators**: Like Kira—specialized experts
 - **Standard Investigators**: Team-based investigators
@@ -211,7 +211,7 @@
 ### Detection and Quarantine
 
 **Detection**:
-- Detected by automated Traverse Authority monitoring station **Threshold-Watch-Seven** (orbital sensor array)
+- Detected by automated Traverse Authority monitoring station **Vela-Watch-Seven** (orbital sensor array)
 - Emergence signature logged as **impossible** by automated systems—triggered priority alert
 - Initial classification: Critical Anomaly—potential threat to navigation safety
 
@@ -225,8 +225,8 @@
 - Investigation Division notified for detailed analysis
 
 **Quarantine Location**:
-- **Quarantine Station Threshold-Q2**
-- Orbital facility 40,000 km above Threshold
+- **Quarantine Station Vela-Q2**
+- Orbital facility 40,000 km above Vela
 - Designed for holding anomalous or contaminated vessels
 - Isolated from main traffic routes
 - Full sensor coverage, controlled access
@@ -370,7 +370,7 @@ Beyond simple feeding, the entity recognizes something in Kira:
 
 ## 7. TIMELINE SPECIFICS
 
-### Overall Story Duration: **19 days** (Threshold planetary days = 26 hours each)
+### Overall Story Duration: **19 days** (Vela planetary days = 26 hours each)
 
 **Day 1**: Chapter 1 - Kira's routine day, before anomaly
 **Day 2**: Chapter 2 - UVO-1 detected, initial response team boards, Investigation Division notified
@@ -591,7 +591,7 @@ Bend-travel doesn't just compress space—it **severs spatial continuity tempora
 
 ## 10. WORLD-BUILDING TEXTURE & CONSISTENCY
 
-### Daily Life on Threshold
+### Daily Life on Vela
 
 **Architecture**:
 - Traverse Authority Central Complex: Massive utilitarian structure, lots of glass and metal, institutional but not oppressive
@@ -627,7 +627,7 @@ Bend-travel doesn't just compress space—it **severs spatial continuity tempora
 
 ### Other Species/Civilizations (Background)
 
-**Present on Threshold** (cosmopolitan hub):
+**Present on Vela** (cosmopolitan hub):
 - Multiple intelligent species use Traverse network
 - Mostly humanoid for simplicity (avoid complex biology descriptions)
 - Cultural differences but professional cooperation within Traverse Authority
@@ -646,7 +646,7 @@ Bend-travel doesn't just compress space—it **severs spatial continuity tempora
 - Regulated like aviation in 20th century Earth—commercial industry with strict oversight
 
 **Cultural Impact**:
-- Threshold exists because of bend-travel (hub world status)
+- Vela exists because of bend-travel (hub world status)
 - Most careers involve space travel in some capacity
 - Society structured around the logistics of interstellar movement
 - Traverse Authority has enormous social influence (they control the routes)
@@ -660,7 +660,7 @@ Bend-travel doesn't just compress space—it **severs spatial continuity tempora
 ### Political Structure (Background)
 
 **Governmental System**:
-- Threshold governed by **Planetary Directorate** (elected civilian government)
+- Vela governed by **Planetary Directorate** (elected civilian government)
 - Traverse Authority is semi-autonomous (reports to Directorate but has operational independence)
 - Balance between civilian oversight and technical expert control
 - Bureaucratic but functional
@@ -678,7 +678,7 @@ Bend-travel doesn't just compress space—it **severs spatial continuity tempora
 
 **STORY_ARC.md** - Add/Enhance:
 - [ ] Protagonist Profile (Kira Venn full details) - Insert before Chapter 1
-- [ ] World Details (Threshold planet, Traverse Authority) - Insert before Chapter 1
+- [ ] World Details (Vela planet, Traverse Authority) - Insert before Chapter 1
 - [ ] Supporting Characters (Torven, Len, Rivka, Yara) - Insert before Chapter 1
 - [ ] Ship Details (UVO-1 physical description) - Insert in Chapter 3 section
 - [ ] Entity Motivation section - Expand existing entity information
@@ -693,17 +693,17 @@ Bend-travel doesn't just compress space—it **severs spatial continuity tempora
 - [ ] Flashback or reference to the traumatic accident (brief, not full exposition)
 - [ ] Establish her solo work preference through actions
 - [ ] Include Division Chief Torven interaction
-- [ ] Show Threshold setting details naturally
+- [ ] Show Vela setting details naturally
 - [ ] Demonstrate bend-travel as routine background element
 - [ ] Establish her analytical methodology through small case
 - [ ] Music from dead civilizations detail (if space allows)
 - [ ] 26-hour day rhythm affecting her insomnia
 
 ### Chapter 2 Draft - Incorporate:
-- [ ] UVO-1 designation and detection by Threshold-Watch-Seven
+- [ ] UVO-1 designation and detection by Vela-Watch-Seven
 - [ ] Warm wake explanation (why cold arrival is impossible)
 - [ ] Initial response team's findings
-- [ ] Quarantine Station Threshold-Q2 location
+- [ ] Quarantine Station Vela-Q2 location
 - [ ] Torven assigning Kira specifically (why her for this case)
 - [ ] Kira's reaction to the anomaly (professional curiosity + personal resonance)
 - [ ] Bend-travel physics established naturally
@@ -715,7 +715,7 @@ Bend-travel doesn't just compress space—it **severs spatial continuity tempora
 - [ ] Salla's pin appears in physical descriptions
 - [ ] 26-hour days mentioned occasionally (affects sleep, timing)
 - [ ] Traverse Authority procedures feel institutional but not oppressive
-- [ ] Threshold described as established, functional colony (not frontier or dystopia)
+- [ ] Vela described as established, functional colony (not frontier or dystopia)
 - [ ] Entity chapters use distinctly alien perspective/language
 - [ ] Soil always described with sensory wrongness (smell especially)
 
@@ -726,7 +726,7 @@ Bend-travel doesn't just compress space—it **severs spatial continuity tempora
 This planning document contains all major gap-filling decisions:
 
 1. ✅ Protagonist fully profiled (Kira Venn, 37, traumatic past, isolation arc)
-2. ✅ World established (Threshold planet, Traverse Authority, bend-travel society)
+2. ✅ World established (Vela planet, Traverse Authority, bend-travel society)
 3. ✅ Supporting characters defined (Torven, Len, Rivka, Yara)
 4. ✅ Ship detailed (UVO-1 appearance, detection, quarantine)
 5. ✅ Entity motivation clarified (entropic decay, loneliness, spatial coherence)
@@ -739,7 +739,7 @@ This planning document contains all major gap-filling decisions:
 **Next Steps**:
 1. Provide this document to Claude Code
 2. Request STORY_ARC.md updates incorporating all new details
-3. Request Chapter 1 draft incorporating Kira Venn profile and Threshold setting
+3. Request Chapter 1 draft incorporating Kira Venn profile and Vela setting
 4. Request Chapter 2 draft incorporating UVO-1 detection and investigation assignment
 5. Review drafts for consistency with planning document
 

@@ -1,8 +1,8 @@
 CHAPTER 3: FIRST CONTACT
 
-The transport shuttle carried her above Threshold's atmosphere in silence.
+The transport shuttle carried her above Vela's atmosphere in silence.
 
-Kira watched the planet fall away through the viewport, the sprawl of Convergence City shrinking to geometric patterns against the curved horizon. The shuttle's autopilot handled navigation with mechanical precision, following the established corridor to Quarantine Station Threshold-Q2. Forty thousand kilometers. Two hours of transit through empty space that gave her time to review everything she knew about what waited at the other end.
+Kira watched the planet fall away through the viewport, the sprawl of Convergence City shrinking to geometric patterns against the curved horizon. The shuttle's autopilot handled navigation with mechanical precision, following the established corridor to Quarantine Station Vela-Q2. Forty thousand kilometers. Two hours of transit through empty space that gave her time to review everything she knew about what waited at the other end.
 
 Which wasn't much.
 
@@ -10,7 +10,7 @@ She'd spent the previous eight hours analyzing sensor data, boarding reports, pr
 
 But data was abstraction. Numbers and readouts, sensor interpretations twice-removed from physical reality. She needed to see it herself, touch it, understand it in the direct way that only proximity allowed.
 
-The quarantine station appeared as a point of light against the black, growing larger as the shuttle closed distance. Threshold-Q2 was small by station standards—a modular facility designed for temporary housing of anomalous or contaminated vessels. Cylindrical core with docking arms extended like spokes, sensor arrays bristling from the central hub. Home to a skeleton crew of ten: security, technical analysts, station manager. Enough to maintain operations, few enough to evacuate quickly if whatever they were containing turned dangerous.
+The quarantine station appeared as a point of light against the black, growing larger as the shuttle closed distance. Vela-Q2 was small by station standards—a modular facility designed for temporary housing of anomalous or contaminated vessels. Cylindrical core with docking arms extended like spokes, sensor arrays bristling from the central hub. Home to a skeleton crew of ten: security, technical analysts, station manager. Enough to maintain operations, few enough to evacuate quickly if whatever they were containing turned dangerous.
 
 The shuttle docked with mechanical precision. She gathered her equipment—sample containers, portable scanner, recording devices—and cycled through the airlock into the station's central corridor.
 
@@ -138,7 +138,7 @@ Rivka nodded slowly. "I thought I was being paranoid."
 
 "Paranoia is just pattern recognition operating on incomplete data," Kira said. "Sometimes the pattern is real even when you can't articulate what you're seeing."
 
-She gathered her samples, secured them in the transport container for the return journey to Threshold's main laboratory facilities. The shuttle would depart in twenty minutes, giving her just enough time to file the preliminary field report.
+She gathered her samples, secured them in the transport container for the return journey to Vela's main laboratory facilities. The shuttle would depart in twenty minutes, giving her just enough time to file the preliminary field report.
 
 But as she sat in the quarantine station's small observation deck, looking out at the impossibly unified hull of UVO-1 floating in its isolation, Kira found herself reluctant to begin writing. How did you document wrongness? How did you put into clinical language the sensation of touching earth that shouldn't exist, breathing air that carried memories of graves never dug, seeing a ship that seemed to exist more as concept than construction?
 

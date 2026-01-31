@@ -7,11 +7,11 @@ She'd returned to her office after four hours of sleep that wasn't quite rest, h
 The alert tone was different from routine case assignments—higher priority, broader distribution. She pulled it up on her primary display, already knowing from the classification code that something had shifted in the ordinary rhythm of investigations.
 
 PRIORITY ALERT: BEND-TRAVEL ANOMALY - QUARANTINE PROTOCOL INITIATED
-MONITORING STATION: Threshold-Watch-Seven
+MONITORING STATION: Vela-Watch-Seven
 TIMESTAMP: 0547 LOCAL
 STATUS: INITIAL RESPONSE COMPLETE - VESSEL SECURED
 
-She opened the full briefing, the data populating across her workspace in ordered hierarchies. Monitoring Station Threshold-Watch-Seven had detected a vessel emerging from bend-travel at 0547. Standard procedure—every fold exit triggered automated monitoring, thermal and electromagnetic sensors cataloging the warm wake signature for traffic control and safety verification.
+She opened the full briefing, the data populating across her workspace in ordered hierarchies. Monitoring Station Vela-Watch-Seven had detected a vessel emerging from bend-travel at 0547. Standard procedure—every fold exit triggered automated monitoring, thermal and electromagnetic sensors cataloging the warm wake signature for traffic control and safety verification.
 
 Except this vessel had arrived cold.
 
@@ -61,7 +61,7 @@ THREAT ASSESSMENT: None identified. No crew, no active systems, no weapons, no h
 
 CLASSIFICATION: Unmanned derelict. Origin unknown. Recommend full scientific investigation.
 
-QUARANTINE ASSIGNMENT: Transfer to Quarantine Station Threshold-Q2 for detailed analysis.
+QUARANTINE ASSIGNMENT: Transfer to Quarantine Station Vela-Q2 for detailed analysis.
 
 She sat back, trying to assemble the pieces into coherent understanding. An unmanned ship completing bend-travel navigation with controls that had been dead for years. Arriving cold when the physics demanded it arrive hot. Filled with soil.
 
@@ -69,11 +69,11 @@ None of it made sense individually. Together, it formed a pattern of wrongness s
 
 Her workspace chimed—incoming message from Division Chief Marek Torven, head of the Investigation Division and the man who assigned her specialized cases. She accepted it.
 
-"I assume you've seen the alert from Threshold-Watch-Seven." Torven's voice carried the careful neutrality of someone preparing to make a request they suspected would be complicated.
+"I assume you've seen the alert from Vela-Watch-Seven." Torven's voice carried the careful neutrality of someone preparing to make a request they suspected would be complicated.
 
 "I'm reading the boarding report now."
 
-"Good. I'm formally assigning the investigation to you. Full clearance, priority access to all sensor data and physical samples. Initial response team is finishing their sweep now, then the vessel will be transferred to Quarantine Station Threshold-Q2 for detailed analysis."
+"Good. I'm formally assigning the investigation to you. Full clearance, priority access to all sensor data and physical samples. Initial response team is finishing their sweep now, then the vessel will be transferred to Quarantine Station Vela-Q2 for detailed analysis."
 
 She'd expected this. The weird ones came to her. But something in Torven's tone suggested more than routine assignment.
 
@@ -127,7 +127,7 @@ SAFETY CLASSIFICATION: Level 2 biohazard (precautionary). No active pathogens de
 
 Soil from somewhere else. Somewhere not in the database. Old beyond reliable measurement, yet somehow preserved in impossible condition.
 
-The vessel was being transported to Quarantine Station Threshold-Q2 now, the boarding team accompanying it to ensure secure transfer. She'd have access in a few hours. Time enough to review everything the initial team had documented, to prepare her own investigation checklist, to approach this with the methodical rigor the impossibility demanded.
+The vessel was being transported to Quarantine Station Vela-Q2 now, the boarding team accompanying it to ensure secure transfer. She'd have access in a few hours. Time enough to review everything the initial team had documented, to prepare her own investigation checklist, to approach this with the methodical rigor the impossibility demanded.
 
 She opened a new case file, creating the documentation framework that would structure her analysis. Observations, hypotheses, tests, conclusions. The same process she applied to every investigation, whether it was a freighter with a hot wake or a ship that arrived cold from the impossible.
 
@@ -160,7 +160,7 @@ The thought came unbidden, carrying an edge of unease she immediately dismissed 
 
 But watching the ship drift in the recording's silence, she couldn't quite shake the image: a vessel that arrived the way corpses were cold, carrying soil the way graves were full.
 
-She archived the thought with the rest of her preliminary observations and returned to the data, building her analysis toward whatever truth waited at Quarantine Station Threshold-Q2.
+She archived the thought with the rest of her preliminary observations and returned to the data, building her analysis toward whatever truth waited at Quarantine Station Vela-Q2.
 
 Between the possible and the true, there was space for mysteries to hide. And she'd learned long ago that mysteries, given enough scrutiny, eventually surrendered their secrets.
 

@@ -104,7 +104,7 @@ Kira was part of a six-person team investigating a catastrophic bend-travel fail
 
 ### THE WORLD: THRESHOLD
 
-**Planet Name**: Threshold
+**Planet Name**: Vela
 
 **Type**: Established colony world, ~180 years old (human settlement)
 
@@ -208,13 +208,13 @@ Kira was part of a six-person team investigating a catastrophic bend-travel fail
 - Volume: Approximately 45 cubic meters
 
 **Detection**:
-- Detected by **Threshold-Watch-Seven** (orbital sensor array)
+- Detected by **Vela-Watch-Seven** (orbital sensor array)
 - Emergence signature logged as impossible—triggered priority alert
 - Initial response team of 4 boarded within 2 hours
 - Classified as "anomalous but non-threatening"
 
-**Quarantine Location**: **Quarantine Station Threshold-Q2**
-- Orbital facility 40,000 km above Threshold
+**Quarantine Location**: **Quarantine Station Vela-Q2**
+- Orbital facility 40,000 km above Vela
 - Designed for holding anomalous or contaminated vessels
 - Small permanent staff: 6 security, 3 technical analysts, 1 station manager
 
@@ -287,7 +287,7 @@ When preserved consciousnesses degrade to ~40% fidelity, entity must feed again 
 
 ### TIMELINE SPECIFICS
 
-**Overall Story Duration**: 19 days (Threshold planetary days = 26 hours each)
+**Overall Story Duration**: 19 days (Vela planetary days = 26 hours each)
 
 **Day 1**: Chapter 1 - Kira's routine day, before anomaly
 **Day 2**: Chapter 2 - UVO-1 detected, initial response, Kira assigned
@@ -364,10 +364,10 @@ Bend-travel doesn't just compress space—it severs spatial continuity temporari
 **Act**: 1 | **Word Count**: 2000-2500 words | **Poetic Ending**: Yes (establish style)
 
 **Summary**:
-Introduce Kira Venn through her work. A routine day at the Traverse Authority on Threshold—investigating a minor bend-travel anomaly. Show her analytical mind, her preference for working alone, and hints of the past trauma that drives her isolation. Establish the world: how bend-travel works, the Traverse Authority's role, Threshold's 26-hour day cycle. Brief interaction with a colleague who represents the collaborative approach she rejects. Subtle mention of Salla's memorial pin she wears. Flashback or reference to the fatal accident investigation 5 years ago that made her request solo assignment. Let readers get comfortable with Kira's methodology and this universe before introducing the impossible.
+Introduce Kira Venn through her work. A routine day at the Traverse Authority on Vela—investigating a minor bend-travel anomaly. Show her analytical mind, her preference for working alone, and hints of the past trauma that drives her isolation. Establish the world: how bend-travel works, the Traverse Authority's role, Vela's 26-hour day cycle. Brief interaction with a colleague who represents the collaborative approach she rejects. Subtle mention of Salla's memorial pin she wears. Flashback or reference to the fatal accident investigation 5 years ago that made her request solo assignment. Let readers get comfortable with Kira's methodology and this universe before introducing the impossible.
 
 **Key Story Beats**:
-- Kira working alone in her office at Traverse Authority headquarters on Threshold
+- Kira working alone in her office at Traverse Authority headquarters on Vela
 - Demonstrate her investigative methodology through a small, routine case (freighter thermal signature)
 - Show friction with colleague (Meris) who represents committee-based decision-making
 - Brief mention/flashback to why she trusts herself over groups (the fatal accident, 5-1 vote, 47 deaths)
@@ -389,13 +389,13 @@ Introduce Kira Venn through her work. A routine day at the Traverse Authority on
 **Act**: 1 | **Word Count**: 1800-2200 words | **Poetic Ending**: Optional
 
 **Summary**:
-The anomaly occurs. Monitoring station Threshold-Watch-Seven detects a ship emerging from bend-travel with an impossible signature: completely cold, no thermal or electromagnetic "warm wake"—the residual energy signature that ALL ships emit for hours after bend-travel. The physics don't work. The energy accounting is wrong. Initial response team (4 people) is dispatched, boards the vessel, declares it unmanned and non-threatening, but deeply weird. Designates it UVO-1 (Unidentified Vessel Origin #1). Kira learns about it through official channels. Division Chief Marek Torven formally assigns the investigation to her, specifically citing her ability to work without being swayed by committee speculation.
+The anomaly occurs. Monitoring station Vela-Watch-Seven detects a ship emerging from bend-travel with an impossible signature: completely cold, no thermal or electromagnetic "warm wake"—the residual energy signature that ALL ships emit for hours after bend-travel. The physics don't work. The energy accounting is wrong. Initial response team (4 people) is dispatched, boards the vessel, declares it unmanned and non-threatening, but deeply weird. Designates it UVO-1 (Unidentified Vessel Origin #1). Kira learns about it through official channels. Division Chief Marek Torven formally assigns the investigation to her, specifically citing her ability to work without being swayed by committee speculation.
 
 **Key Story Beats**:
-- Threshold-Watch-Seven detects the impossible "dead arrival" signature at 0547 local
+- Vela-Watch-Seven detects the impossible "dead arrival" signature at 0547 local
 - Technical explanation of why this is impossible (warm wake is fundamental to bend-travel)
 - Initial response team boards, finds ship filled with soil (~70% of cabin), no pilot, no active systems
-- Ship designated UVO-1, to be transferred to Quarantine Station Threshold-Q2
+- Ship designated UVO-1, to be transferred to Quarantine Station Vela-Q2
 - Rapid briefing circulates through Traverse Authority—confusion and scientific curiosity
 - Kira learns about it, recognizes this is exactly her type of case
 - Division Chief Torven formally assigns investigation to her, citing her independent analysis capability
@@ -417,10 +417,10 @@ The anomaly occurs. Monitoring station Threshold-Watch-Seven detects a ship emer
 **Act**: 1 | **Word Count**: 2200-2800 words | **Poetic Ending**: Yes (essential sensory moment)
 
 **Summary**:
-Kira's first physical visit to UVO-1 at Quarantine Station Threshold-Q2. Describe the ship in rich detail: dark gray-brown hull with iridescence like oil on water, organic curves rather than angular design, no visible seams. Interior filled with approximately 80% soil—45 cubic meters of dark brown-black organic matter. The sensory wrongness—the smell (sweet-rotten, ancient, alien despite being organic), the texture (dry but not dusty, slightly clumped), the way it feels wrong despite being "just dirt." Kira collects samples, documents everything with scientific precision, begins forming initial hypotheses. Brief interaction with station security (possibly Lt. Shen Rivka).
+Kira's first physical visit to UVO-1 at Quarantine Station Vela-Q2. Describe the ship in rich detail: dark gray-brown hull with iridescence like oil on water, organic curves rather than angular design, no visible seams. Interior filled with approximately 80% soil—45 cubic meters of dark brown-black organic matter. The sensory wrongness—the smell (sweet-rotten, ancient, alien despite being organic), the texture (dry but not dusty, slightly clumped), the way it feels wrong despite being "just dirt." Kira collects samples, documents everything with scientific precision, begins forming initial hypotheses. Brief interaction with station security (possibly Lt. Shen Rivka).
 
 **Key Story Beats**:
-- Journey to Quarantine Station Threshold-Q2 (orbital facility 40,000 km above Threshold)
+- Journey to Quarantine Station Vela-Q2 (orbital facility 40,000 km above Vela)
 - First physical encounter with UVO-1's exterior (60m long, 25m wide, foreign design, almost grown rather than built)
 - Entry into cabin—overwhelming presence of soil (45 cubic meters, packed densely)
 - Detailed sensory descriptions: smell (sweet-rotten), texture (dry but clumped), visual wrongness
@@ -448,7 +448,7 @@ Kira's first physical visit to UVO-1 at Quarantine Station Threshold-Q2. Describ
 **Act**: 1 | **Word Count**: 1500-2000 words | **Poetic Ending**: Optional
 
 **Summary**:
-Laboratory analysis of the soil samples. Spectral analysis, carbon dating attempts, biological scans, chemical composition tests. The data is maddeningly contradictory: ancient beyond reliable measure, yet preserved impossibly well. Dead organic material with no active biological processes, yet something about it defies categorization—it shouldn't exist in this state. Kira works late into the night (Threshold's 26-hour day stretching even longer), obsessing over data that refuses to make sense. Perhaps brief interaction with Dr. Len Cayor from Research Division, who is enthusiastic about the mystery in a way that annoys but also intrigues Kira.
+Laboratory analysis of the soil samples. Spectral analysis, carbon dating attempts, biological scans, chemical composition tests. The data is maddeningly contradictory: ancient beyond reliable measure, yet preserved impossibly well. Dead organic material with no active biological processes, yet something about it defies categorization—it shouldn't exist in this state. Kira works late into the night (Vela's 26-hour day stretching even longer), obsessing over data that refuses to make sense. Perhaps brief interaction with Dr. Len Cayor from Research Division, who is enthusiastic about the mystery in a way that annoys but also intrigues Kira.
 
 **Key Story Beats**:
 - Multiple scientific tests performed on soil samples

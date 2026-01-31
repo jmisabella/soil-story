@@ -29,7 +29,7 @@ She flagged it and continued.
 
 **INCIDENT LOG: TA-Archive-2329-1203**
 **Date**: 132 years ago
-**Location**: Threshold approach corridor (this system, before quarantine protocols)
+**Location**: Vela approach corridor (this system, before quarantine protocols)
 **Summary**: Unidentified vessel detected on approach vector. No response to communication attempts. Boarding team found ship abandoned, interior filled with unidentified organic material. Material classified as non-hazardous after preliminary analysis. Vessel designated as derelict, organic material disposed of per contamination protocols. Origin investigation inconclusive.
 
 Filled with organic material.
@@ -75,7 +75,7 @@ But three locations showed additional entries months or years after the initial 
 
 **CROSS-REFERENCE: TA-Archive-2329-1203**
 **Supplemental Report - 6 months post-incident**
-**Summary**: Unexplained personnel disappearances at Threshold Station Alpha (location where vessel with organic material had been initially processed). Three staff members reported missing over two-week period. Search conducted, no bodies recovered. Investigation concluded accidental deaths during station operations. Families compensated. Case closed.
+**Summary**: Unexplained personnel disappearances at Vela Station Alpha (location where vessel with organic material had been initially processed). Three staff members reported missing over two-week period. Search conducted, no bodies recovered. Investigation concluded accidental deaths during station operations. Families compensated. Case closed.
 
 **CROSS-REFERENCE: TA-Archive-2356-0492**
 **Supplemental Report - 8 months post-incident**
@@ -103,7 +103,7 @@ Not all of them. Most of the vessel incidents showed no follow-up anomalies in t
 
 She compiled the data into a comprehensive analysis document, laying out the timeline, the incidents, the follow-up anomalies. The pattern was undeniable once you assembled it correctly. Something had been migrating between star systems for over a century, arriving in vessels filled with soil, occasionally leaving traces of wrongness in its wake.
 
-And now it had arrived here. At Threshold. In her investigation.
+And now it had arrived here. At Vela. In her investigation.
 
 The question was no longer "what is this anomaly?" The question was: "what happened to the others who investigated similar anomalies before me?"
 
@@ -161,7 +161,7 @@ She secured the archive data, compiled her findings into an encrypted file acces
 
 The pattern was clear: something had been traveling between worlds for at least 147 years, possibly much longer. It arrived carrying soil from somewhere else. And sometimes—not always, but sometimes—it left traces of wrongness in its wake.
 
-Now it had arrived at Threshold. And she was investigating it alone, exactly as she'd investigated every case for the past five years, trusting isolation as methodology.
+Now it had arrived at Vela. And she was investigating it alone, exactly as she'd investigated every case for the past five years, trusting isolation as methodology.
 
 Either that isolation would lead to truth as it always had before.
 
@@ -175,7 +175,7 @@ The archives closed behind her as she left, their historical data safely sealed 
 
 Migration patterns of ancient predators, she thought. Or trails left by things that hunt across the vast distances between stars, patient as geology, inevitable as entropy, old enough to have learned that consciousness was the richest feeding and isolation the easiest harvest.
 
-The stars beyond Threshold's atmosphere had witnessed this pattern for over a century—vessels arriving, soil spreading, investigators examining, anomalies following. Each incident documented separately, filed independently, dismissed as isolated mystery.
+The stars beyond Vela's atmosphere had witnessed this pattern for over a century—vessels arriving, soil spreading, investigators examining, anomalies following. Each incident documented separately, filed independently, dismissed as isolated mystery.
 
 But together they told a story written in coordinates and dates, in cold arrivals and organic materials, in disappearances and behavioral changes that no one had connected because the handwriting was too vast and patient for ordinary recognition.
 
