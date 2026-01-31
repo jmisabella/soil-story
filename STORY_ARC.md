@@ -70,6 +70,288 @@ The story evolves from sci-fi mystery into psychological horror as the protagoni
 
 ---
 
+## STORY WORLD & CHARACTER DETAILS
+
+### PROTAGONIST: KIRA VENN
+
+**Age**: 37 years old
+
+**Time with Traverse Authority**: 11 years total
+- First 6 years: Standard investigator on team assignments
+- Last 5 years: Solo specialist (after the accident)
+
+**Physical Description**:
+- Lean build, 5'8", moves with deliberate economy
+- Dark brown hair kept short and practical
+- Sharp, observant gray-green eyes that rarely blink when focused
+- Often has faint shadows under eyes (chronic mild insomnia)
+- Dresses in utilitarian Traverse Authority field attire—functional, not fashionable
+- Notable detail: always wears a small silver pin on her collar (memento from Dr. Salla Orin, analyst who died in the accident she tried to prevent)
+
+**Personal Life**:
+- **Living**: Small, meticulously organized apartment in Traverse Authority residential sector
+- **Relationships**: Single, estranged from family, no close friends
+- **Hobbies**: Solves complex mathematical puzzles; collects music from dead civilizations
+- **Psychology**: Exceptional pattern recognition; difficulty trusting others' input; hypervigilant about being right
+
+**The Traumatic Accident (5 Years Ago)**:
+Kira was part of a six-person team investigating a catastrophic bend-travel failure (23 dead). Physical evidence suggested equipment flaw in spatial calibration system. Team consensus blamed pilot error (Kira dissented, 5-1 vote). Six months later, three more ships failed identically—same equipment flaw (47 additional deaths). Kira had been right. Dr. Salla Orin, a young analyst who had privately agreed with Kira, died in the second wave. Kira now wears Salla's memorial pin—a small silver circle with stylized bend-space diagram. She requested solo assignment status and hasn't worked on a team since.
+
+**Position**: Senior Investigator, Anomaly Specialist (Solo Assignment Status)
+- Reports directly to Division Chief Marek Torven (Investigation Division)
+
+---
+
+### THE WORLD: THRESHOLD
+
+**Planet Name**: Threshold
+
+**Type**: Established colony world, ~180 years old (human settlement)
+
+**Population**: ~4.7 million
+- 60% Traverse Authority personnel and support industries
+- 40% civilian population
+
+**Primary Settlement**: Convergence City—sprawling metropolitan area built around Traverse Authority Central Complex
+
+**Day/Night Cycle**: 26-hour days (contributes to Kira's insomnia)
+
+**Culture**: Highly organized, procedure-focused society necessary for managing bend-travel safety. Stratified between Traverse Authority (quasi-military structure) and civilian sectors.
+
+**Technology**: Advanced (routine bend-travel, artificial gravity, advanced medical tech, AI assistance) but not magical—still bound by physics and limitations.
+
+---
+
+### TRAVERSE AUTHORITY STRUCTURE
+
+**Organization**: Quasi-military regulatory body with governmental authority
+- Monitors all bend-travel in the sector
+- Investigates anomalies, accidents, violations
+- Has enforcement capability
+
+**Hierarchy**:
+- Sector Command → Division Chiefs → Senior Investigators → Standard Investigators → Field Analysts → Monitoring Technicians
+
+**Kira's Position**: Senior Investigator, Anomaly Specialist (Solo Assignment Status)
+- Reports to Division Chief Marek Torven
+- Unusual status: most senior investigators supervise teams; she works alone by special arrangement
+
+---
+
+### SUPPORTING CHARACTERS
+
+**Division Chief Marek Torven** (Kira's Superior)
+- Age 56, 35 years with Traverse Authority
+- Stocky build, graying hair, weathered face, deep-set brown eyes
+- Patient, methodical, deeply principled
+- One of few people who understands Kira
+- Granted her solo status after the accident
+- May be controlled by entity at crucial moments (ultimate betrayal)
+
+**Dr. Len Cayor** (Xenobiologist/Materials Analyst)
+- Age 42, non-binary (they/them)
+- Tall, lanky, perpetually disheveled, wild curly black hair
+- Enthusiastic about mysteries, infectious curiosity
+- Assigned to analyze soil samples
+- One of few who can work with Kira (doesn't take her coldness personally)
+- First to experience "the touching" (caught with hand in soil mid-sentence)
+- Potential candidate for entity's voice when it first speaks
+
+**Lieutenant Shen Rivka** (Security/Enforcement)
+- Age 31, military background
+- Compact, muscular build, sharp features, dark hair in tight braid
+- Professional, no-nonsense, follows protocols exactly
+- Assigned to secure quarantined ship and provide security
+- Notices soil displacement first (finds it in sealed security checkpoint)
+- Military discipline makes her behavioral changes under entity control particularly jarring
+
+**Yara Tess** (Former Colleague/Ghost in Memory)
+- Would be ~39, part of the six-person team during fatal investigation
+- Voted against Kira's conclusion; left Traverse Authority after second deaths
+- Sent one message: "You were right. I'm sorry. I can't face you."
+- Kira never responded, doesn't know where Yara is now
+- Entity might use Yara's voice/mannerisms to destabilize Kira
+
+---
+
+### THE SHIP: UVO-1 (UNIDENTIFIED VESSEL ORIGIN #1)
+
+**Size**: Medium transport-class
+- Approximately 60 meters long, 25 meters wide
+- Single-deck interior (unusual for this size)
+
+**Exterior**:
+- Hull material: Unknown alloy, dark gray-brown with slight iridescence (like oil on water)
+- Design aesthetic: Organic curves rather than angular—almost grown rather than built
+- No visible seams or welds—appears to be single continuous material
+- No markings, registration, or identification
+- Surface texture almost like bark or aged stone
+
+**Condition**:
+- Structurally intact, no damage
+- Systems completely inactive (dead, cold, no power signature)
+- Hull exactly ambient temperature of space
+
+**Interior**:
+- Single open cabin/hold design
+- Filled approximately 80% with soil (difficult to move through)
+- Control console alien in design—symbols unlike any known language
+- Console completely inactive—no sign of recent power
+- No life support active (yet cabin maintained breathable atmosphere somehow)
+
+**The Soil**:
+- Dark brown-black, rich organic appearance
+- Texture: Dry but not dusty, slightly clumped
+- Temperature: Matches ship's ambient (cold)
+- Smell: Sweet-rotten, ancient, alien despite being organic
+- Distribution: Packed densely, almost deliberately arranged
+- Volume: Approximately 45 cubic meters
+
+**Detection**:
+- Detected by **Threshold-Watch-Seven** (orbital sensor array)
+- Emergence signature logged as impossible—triggered priority alert
+- Initial response team of 4 boarded within 2 hours
+- Classified as "anomalous but non-threatening"
+
+**Quarantine Location**: **Quarantine Station Threshold-Q2**
+- Orbital facility 40,000 km above Threshold
+- Designed for holding anomalous or contaminated vessels
+- Small permanent staff: 6 security, 3 technical analysts, 1 station manager
+
+---
+
+### BEND-TRAVEL TECHNICAL DETAILS
+
+**Basic Concept**: "Folding" space rather than moving through it
+- Not FTL travel—sidesteps light-speed limit by compressing spatial distance
+- Think: folding paper to bring two distant points together
+
+**The "Warm Wake"**:
+- Residual thermal and electromagnetic signature after bend-space emergence
+- Exists because compressing/uncompressing space generates massive energy flux
+- Lasts 6-18 hours depending on distance traveled and vessel mass
+- Measures: Thermal (heat from space-time decompression), Electromagnetic (EM radiation from spatial stress), Quantum (quantum state variance—fades fastest)
+
+**Why UVO-1's Cold Arrival is Impossible**:
+- ALL bend-travel produces warm wake—thermodynamically fundamental
+- Cold arrival means no energy released during emergence
+- Violates conservation of energy—energy had to go somewhere
+- Theories: Energy released elsewhere? Vessel never compressed space? Energy absorbed by something?
+
+**Navigation Requirements**:
+- Precise spatial calculations (where to fold, how much compression)
+- Active control during transition (mid-course corrections in bent space)
+- Emergence timing (when to unfold space)
+- Safety margins (don't emerge inside objects)
+
+**Why Unmanned Navigation is Extraordinary**:
+- AI can handle calculations, BUT bend-space environment is unpredictable
+- Requires real-time decision-making
+- Most regulations require conscious pilot for safety
+
+---
+
+### ENTITY MOTIVATION & NATURE
+
+**Primary Driver: Entropic Decay**
+
+The entity's consciousnesses slowly degrade over centuries. Absorbed minds aren't static—they're like recordings played continuously, losing fidelity with each replay. Over hundreds of years, preserved minds become fragmented, hollow, incoherent. The entity experiences this as loneliness—its "companions" fade into meaningless echoes.
+
+**Why It Needs Fresh Consciousness**:
+1. **Sustenance**: Feeds on active, lived experience—texture and flavor of ongoing consciousness
+2. **Preservation**: New consciousnesses must periodically replace degraded ones
+3. **Coherence**: Entity's own consciousness depends on maintaining critical mass of preserved minds
+4. **Learning**: Each new species/world provides novel forms of consciousness
+
+**The Trigger to Move**:
+When preserved consciousnesses degrade to ~40% fidelity, entity must feed again (roughly every 300-500 years). Movement is survival—stay too long and risk fragmenting into incoherence.
+
+**The Loneliness**:
+- Contains thousands of consciousnesses but is fundamentally, cosmically alone
+- Absorbed minds aren't companions—they're prisoners, fading recordings
+- Cannot communicate with equals because it consumes anything capable of understanding
+- Remembers its origin world (destroyed? abandoned? lost?)
+- Every world it visits, it must destroy or leave—can never stay, never belong
+- Aware enough to understand what it's doing is horror from victims' perspective
+- But has no choice—stopping means dissolution into nothing
+
+**What It Wants From Kira**:
+1. **Kinship**: She chooses isolation; it's condemned to it
+2. **Purity**: Her consciousness is crystalline—undiluted by group dynamics
+3. **Understanding**: Perhaps someone isolated enough could comprehend its perspective
+4. **Possibility**: Could she be companion, not just food?
+
+**The Tragic Truth**: Entity half-hopes Kira might see it as something other than monster. But knows that hope is absurd—it's consuming her world, her people. This makes it more dangerous because it's desperate for connection even as it commits atrocities.
+
+---
+
+### TIMELINE SPECIFICS
+
+**Overall Story Duration**: 19 days (Threshold planetary days = 26 hours each)
+
+**Day 1**: Chapter 1 - Kira's routine day, before anomaly
+**Day 2**: Chapter 2 - UVO-1 detected, initial response, Kira assigned
+**Day 3**: Chapter 3 - Kira travels to Quarantine Station, first contact with ship/soil
+
+**ACT 1 DURATION**: 8 days (Days 1-8)
+**ACT 2 DURATION**: 9 days (Days 9-17)
+**ACT 3 DURATION**: 2 days active + aftermath weeks later
+
+**The Traumatic Accident Timeline**:
+- **5 years, 3 months ago**: Initial incident (23 dead), 3-month investigation, team consensus blamed pilot (5-1, Kira dissenting)
+- **4 years, 9 months ago**: Three more failures over 2 weeks (47 dead), equipment flaw confirmed
+- **4 years, 7 months ago**: Solo status granted to Kira
+- **Present day**: Kira has worked solo for nearly 5 years, closed 23 anomaly investigations independently
+
+---
+
+### CLIMAX MECHANICS (CHAPTER 17)
+
+**The Problem**:
+- Entity's consciousness distributed through soil
+- Soil particles must maintain proximity for coherent consciousness
+- Too widely separated = entity fragments, loses coherence
+
+**The Insight (Kira's Breakthrough)**:
+Bend-travel doesn't just compress space—it severs spatial continuity temporarily. During bend-transition, ship exists in state of spatial disconnection from normal space-time. If you could scatter something across multiple transition events...
+
+**Bend-Drive Overload Protocol**:
+- Normally: Bend-drive compresses space in controlled, stable way
+- Overload: Multiple simultaneous compression fields create spatial fragmentation
+- Result: Instead of folding space cleanly, you shatter it into multiple micro-folds
+- Dangerous: Uncontrolled, unpredictable, violates every safety protocol
+- Risk of fragmenting the vessel itself across multiple spatial locations
+
+**Why This Works on the Entity**:
+- Soil divided into multiple containers
+- Each container placed in separate overloading bend-drive
+- Simultaneous activation creates dozens of micro-folds in space
+- Soil (and entity's consciousness) scattered across unreachable spatial locations
+- Entity experiences catastrophic dissociation—consciousness fragmented beyond recovery
+- Cannot reconstitute: pieces exist in disconnected regions of space-time, possibly different dimensions
+
+**The Resources Kira Needs**:
+- Multiple bend-drives (minimum 12, ideally 20+)
+- Can use decommissioned drives in storage + drives from impounded vessels
+- Override codes to disable safety protocols
+- Synchronization system to trigger all drives simultaneously
+- Timing must be perfect—even 0.3 seconds off allows entity to escape
+
+**The Risk**:
+- Overloading bend-drives could cause explosive decompression
+- Could accidentally fold Quarantine Station partially into bend-space
+- If synchronization fails, entity escapes through controlled hosts
+- Kira might fragment herself if too close during activation
+
+**Why No One Tried This Before**:
+1. No prior case involved spatially-distributed consciousness
+2. Extremely dangerous—could kill everyone on station
+3. Violates fundamental Traverse Authority regulations
+4. Requires someone willing to risk everything
+5. Requires understanding both entity's nature AND bend-space physics—Kira may be only person with both pieces
+
+---
+
 ## DETAILED CHAPTER BREAKDOWN
 
 ---
@@ -82,15 +364,16 @@ The story evolves from sci-fi mystery into psychological horror as the protagoni
 **Act**: 1 | **Word Count**: 2000-2500 words | **Poetic Ending**: Yes (establish style)
 
 **Summary**:
-Introduce the protagonist through her work. A routine day at the Traverse Authority—perhaps investigating a minor bend-travel regulation violation or technical anomaly. Show her analytical mind, her preference for working alone, and hints of the past trauma that drives her isolation. Establish the world: how bend-travel works in conversational terms, the Traverse Authority's role in monitoring space travel, the planet's culture. Let readers get comfortable with her methodology and this universe before introducing the impossible.
+Introduce Kira Venn through her work. A routine day at the Traverse Authority on Threshold—investigating a minor bend-travel anomaly. Show her analytical mind, her preference for working alone, and hints of the past trauma that drives her isolation. Establish the world: how bend-travel works, the Traverse Authority's role, Threshold's 26-hour day cycle. Brief interaction with a colleague who represents the collaborative approach she rejects. Subtle mention of Salla's memorial pin she wears. Flashback or reference to the fatal accident investigation 5 years ago that made her request solo assignment. Let readers get comfortable with Kira's methodology and this universe before introducing the impossible.
 
 **Key Story Beats**:
-- Protagonist working alone in her office/lab at Traverse Authority headquarters
-- Demonstrate her investigative methodology through a small, routine case
-- Show friction with colleagues who prefer committee-based decision-making
-- Brief mention/flashback to why she trusts herself over groups (the fatal accident investigation)
+- Kira working alone in her office at Traverse Authority headquarters on Threshold
+- Demonstrate her investigative methodology through a small, routine case (freighter thermal signature)
+- Show friction with colleague (Meris) who represents committee-based decision-making
+- Brief mention/flashback to why she trusts herself over groups (the fatal accident, 5-1 vote, 47 deaths)
 - Establish her reputation as "the one they call for weird cases"
-- Introduce 1-2 supporting characters (colleagues, supervisor) in passing
+- Physical detail: Salla's pin on her collar (not explained yet, just noted)
+- Mention 26-hour days affecting sleep patterns
 
 **Mysteries Introduced**:
 - What happened in protagonist's past that made her this way?
@@ -106,15 +389,17 @@ Introduce the protagonist through her work. A routine day at the Traverse Author
 **Act**: 1 | **Word Count**: 1800-2200 words | **Poetic Ending**: Optional
 
 **Summary**:
-The anomaly occurs. Traverse Authority monitoring stations detect a ship emerging from bend-travel with an impossible signature: completely cold, no thermal or electromagnetic "warm wake"—the residual energy signature that ALL ships emit for hours after bend-travel. The physics don't work. The energy accounting is wrong. Initial response team is dispatched, boards the vessel, declares it unmanned and non-threatening, but deeply weird. Our protagonist hears about it through official channels, becomes intrigued by the impossibility.
+The anomaly occurs. Monitoring station Threshold-Watch-Seven detects a ship emerging from bend-travel with an impossible signature: completely cold, no thermal or electromagnetic "warm wake"—the residual energy signature that ALL ships emit for hours after bend-travel. The physics don't work. The energy accounting is wrong. Initial response team (4 people) is dispatched, boards the vessel, declares it unmanned and non-threatening, but deeply weird. Designates it UVO-1 (Unidentified Vessel Origin #1). Kira learns about it through official channels. Division Chief Marek Torven formally assigns the investigation to her, specifically citing her ability to work without being swayed by committee speculation.
 
 **Key Story Beats**:
-- Monitoring station detects the impossible "dead arrival" signature
+- Threshold-Watch-Seven detects the impossible "dead arrival" signature at 0547 local
 - Technical explanation of why this is impossible (warm wake is fundamental to bend-travel)
-- Initial response team boards, finds ship filled with soil, no pilot, no active systems
+- Initial response team boards, finds ship filled with soil (~70% of cabin), no pilot, no active systems
+- Ship designated UVO-1, to be transferred to Quarantine Station Threshold-Q2
 - Rapid briefing circulates through Traverse Authority—confusion and scientific curiosity
-- Protagonist learns about it, recognizes this is exactly her type of case
-- She requests assignment, or is specifically requested due to her reputation
+- Kira learns about it, recognizes this is exactly her type of case
+- Division Chief Torven formally assigns investigation to her, citing her independent analysis capability
+- Preliminary biological screening: soil is ancient, dead, non-local origin
 
 **Mysteries Introduced**:
 - How did an unmanned ship complete bend-travel navigation?
@@ -132,17 +417,17 @@ The anomaly occurs. Traverse Authority monitoring stations detect a ship emergin
 **Act**: 1 | **Word Count**: 2200-2800 words | **Poetic Ending**: Yes (essential sensory moment)
 
 **Summary**:
-Protagonist's first physical visit to the quarantined ship. Describe it in rich detail: foreign design unlike any known civilization's vessels, unknown origin, the soil filling most of the pressurized cabin. The sensory wrongness—the smell (ancient, sweet-rotten, alien despite being organic), the texture (dry but somehow wrong), the way it feels wrong despite being "just dirt." She collects samples, documents everything with scientific precision, begins forming initial hypotheses. Meets the initial investigation team briefly, gathers their accounts of the boarding.
+Kira's first physical visit to UVO-1 at Quarantine Station Threshold-Q2. Describe the ship in rich detail: dark gray-brown hull with iridescence like oil on water, organic curves rather than angular design, no visible seams. Interior filled with approximately 80% soil—45 cubic meters of dark brown-black organic matter. The sensory wrongness—the smell (sweet-rotten, ancient, alien despite being organic), the texture (dry but not dusty, slightly clumped), the way it feels wrong despite being "just dirt." Kira collects samples, documents everything with scientific precision, begins forming initial hypotheses. Brief interaction with station security (possibly Lt. Shen Rivka).
 
 **Key Story Beats**:
-- Journey to quarantine zone where ship is being held
-- First physical encounter with the ship's exterior (foreign, unrecognizable design)
-- Entry into cabin—overwhelming presence of soil filling the space
-- Detailed sensory descriptions: smell, texture, visual wrongness
+- Journey to Quarantine Station Threshold-Q2 (orbital facility 40,000 km above Threshold)
+- First physical encounter with UVO-1's exterior (60m long, 25m wide, foreign design, almost grown rather than built)
+- Entry into cabin—overwhelming presence of soil (45 cubic meters, packed densely)
+- Detailed sensory descriptions: smell (sweet-rotten), texture (dry but clumped), visual wrongness
 - Collection of samples for laboratory analysis
-- Discovery that ship's controls are completely dead, haven't been active in years/decades
-- Brief interaction with initial response team (eager to hand off responsibility to her)
-- Protagonist's first visceral reaction—something feels deeply wrong beyond physics
+- Discovery that ship's controls are alien symbols, completely dead, haven't been active in years
+- Brief interaction with station security (professional, efficient)
+- Kira's first visceral reaction—something feels deeply wrong beyond physics
 
 **Mysteries Deepened**:
 - The soil appears completely dead (no microbial life, no biological activity) yet feels "wrong"
@@ -163,16 +448,17 @@ Protagonist's first physical visit to the quarantined ship. Describe it in rich 
 **Act**: 1 | **Word Count**: 1500-2000 words | **Poetic Ending**: Optional
 
 **Summary**:
-Laboratory analysis of the soil samples. Spectral analysis, carbon dating attempts, biological scans, chemical composition tests. The data is maddeningly contradictory: ancient beyond reliable measure, yet preserved impossibly well. Dead organic material with no active biological processes, yet something about it defies categorization—it shouldn't exist in this state. Protagonist works late into the night, obsessing over data that refuses to make sense. Perhaps a scene with a lab technician or colleague who assists with testing and shares her bewilderment.
+Laboratory analysis of the soil samples. Spectral analysis, carbon dating attempts, biological scans, chemical composition tests. The data is maddeningly contradictory: ancient beyond reliable measure, yet preserved impossibly well. Dead organic material with no active biological processes, yet something about it defies categorization—it shouldn't exist in this state. Kira works late into the night (Threshold's 26-hour day stretching even longer), obsessing over data that refuses to make sense. Perhaps brief interaction with Dr. Len Cayor from Research Division, who is enthusiastic about the mystery in a way that annoys but also intrigues Kira.
 
 **Key Story Beats**:
 - Multiple scientific tests performed on soil samples
 - Each test reveals contradictory or impossible information
-- Protagonist's growing frustration with data that violates known science
-- Late night alone in lab, coffee going cold, losing track of time
+- Possible brief scene with Dr. Len Cayor (xenobiologist) who asks too many questions but makes insightful observations
+- Kira's growing frustration with data that violates known science
+- Late night alone in lab, coffee going cold, losing track of time (26-hour days making insomnia worse)
 - First subtle instance of lost time (she doesn't notice—just a time jump of minutes)
-- Discovery that soil contains traces of something preserved within (DNA? consciousness markers?)
-- Protagonist touches soil sample without remembering reaching for it (very brief, not alarming yet)
+- Discovery that soil contains traces of something preserved within (degraded organic compounds, trace elements)
+- Kira touches soil sample without remembering reaching for it (very brief, not alarming yet)
 
 **Mysteries Deepened**:
 - How can soil be both ancient (eons old) and perfectly preserved?
@@ -284,17 +570,17 @@ Protagonist researches the ship's origin, tracing its trajectory backward throug
 **Act**: 2 | **Word Count**: 1800-2500 words | **Poetic Ending**: Optional
 
 **Summary**:
-**THE TOUCHING BEGINS**. Protagonist and team members find themselves physically touching the soil without remembering the conscious decision to do so. Not during blackouts or lost time—they're fully conscious, fully aware, engaged in other activities (conversation, work, eating), but when they notice, their hand is buried in the soil and they have no memory of reaching for it. The compulsion operates below conscious thought. Protagonist realizes mid-conversation that she's been sitting with her fingers submerged in dirt for the past ten minutes while speaking normally. The horror of betrayed autonomy.
+**THE TOUCHING BEGINS**. Kira and others find themselves physically touching the soil without remembering the conscious decision to do so. Not during blackouts—fully conscious, engaged in other activities (conversation, work, eating), but when they notice, their hand is buried in the soil with no memory of reaching for it. The compulsion operates below conscious thought. Particularly disturbing scene with Dr. Len Cayor, who realizes mid-sentence during an enthusiastic explanation that they've been sitting with their fingers submerged in dirt for the past ten minutes while speaking normally. The horror of betrayed autonomy.
 
 **Key Story Beats**:
-- Protagonist discovers herself touching soil without conscious decision
+- Kira discovers herself touching soil without conscious decision
 - Recognition that this has happened before—she just didn't notice
-- Team member has similar experience during a meeting (hand in sample, no awareness)
+- Dr. Len Cayor has similar experience during analysis discussion (hand in sample, no awareness)—particularly disturbing given Len's usual awareness
 - Growing paranoia about autonomy and bodily control
 - Attempts to avoid all soil completely (impossible—it keeps appearing)
 - First subtle hints of behavioral changes in team members (tone, word choice, mannerisms)
-- Protagonist begins questioning her own recent memories and decisions
-- Documentation: she starts keeping detailed logs of her own behavior
+- Kira begins questioning her own recent memories and decisions
+- Documentation: she starts keeping detailed logs of her own behavior (paranoia meets methodology)
 
 **Mysteries Deepened**:
 - The soil can influence behavior and compulsion below conscious awareness
@@ -414,15 +700,16 @@ Protagonist experiences significant, undeniable lost time. She's in the laborato
 **Act**: 2 | **Word Count**: 1800-2500 words | **Poetic Ending**: Yes (crucial turning point)
 
 **Summary**:
-Protagonist attempts to isolate herself completely to prevent the entity from using her to harm others or compromise the investigation. She locks herself in a secured monitoring room, sets up recording equipment, attempts to document everything continuously. But the soil is already there—in the corners, between equipment, in her pockets. Her isolation, her greatest professional strength and emotional defense, becomes her greatest vulnerability. No one to verify her reality. No witnesses to her loss of self. Alone with the thing that wants her consciousness. The entity speaks to her for the first time through her own mouth—words she hears herself say but didn't choose to speak.
+Kira attempts to isolate herself completely to prevent the entity from using her to harm others or compromise the investigation. She locks herself in a secured monitoring room, sets up recording equipment, attempts to document everything continuously. But the soil is already there—in the corners, between equipment, in her pockets. Her isolation, her greatest professional strength and emotional defense, becomes her greatest vulnerability. No one to verify her reality. No witnesses to her loss of self. Alone with the thing that wants her consciousness. The entity speaks to her for the first time through her own mouth—words she hears herself say but didn't choose to speak. Possibly uses phrases or mannerisms that remind her of Yara Tess or Salla Orin.
 
 **Key Story Beats**:
-- Decision to self-isolate for everyone's safety
+- Kira decides to self-isolate for everyone's safety (classic Kira response)
 - Setup of secured room with continuous monitoring and documentation
 - Discovery that soil is already present in the "secured" space (always has been)
 - Hours alone with mounting dread and hypervigilance
 - First direct communication: words emerging from her own mouth unbidden
 - Brief conversation with the entity (cryptic, revealing, terrifying)
+- Entity possibly uses speech patterns or references that evoke Yara or Salla (destabilizing Kira)
 - Realization: isolation doesn't protect her—it makes her more vulnerable
 - The entity has been waiting for her to be truly alone
 - Choice: break isolation and risk others, or remain and face it alone?
